@@ -27,5 +27,8 @@
   "peerDependencies": {
     "@inertiajs/inertia": "^0.2.0",
     "vue": "^2.0.0"
+  },
+  "vetur": {
+    "tags": "vetur/tags.json"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "inertia-link": {
+    "attributes": [
+      "data",
+      "href",
+      "method",
+      "replace",
+      "preserve-state",
+      "preserve-scroll",
+      "only"
+    ],
+    "description": "Inertia link component \n\n[API Reference](https://inertiajs.com/links)"
+  }
+}
